@@ -1,0 +1,3 @@
+Select Drug;12;12;12;;0
+Naproxen;1;23;3;250;750
+Select Drug;1;12;2;;0

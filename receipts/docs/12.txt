@@ -1,0 +1,7 @@
+Dual Cotexin;11;11;11;120;1320
+Select Drug;12;12;21;;0
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
+TOTAL;;;;;
